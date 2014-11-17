@@ -7,7 +7,7 @@
   "main": "lib/selenium-launcher",
   "repository": {
     "type": "git",
-    "url": "http://github.com/daaku/nodejs-selenium-launcher.git"
+    "url": "http://github.com/jharwig/nodejs-selenium-launcher.git"
   },
   "scripts": {
     "test": "make clean && mocha --timeout 150000 --slow 5000"
